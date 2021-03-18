@@ -4,6 +4,8 @@ frecAbs <- c(4, 6, 2, 20, 8)
 n <- sum(frecAbs)
 frecRel <- frecAbs / n
 relFrec.acum = cumsum(frecRel)
+m <- c(1, 2, 3, 4, 5)
+
 
 
 
